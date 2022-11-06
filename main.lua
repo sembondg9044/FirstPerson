@@ -1,4 +1,8 @@
 
+--credits to Sembon#0010
+--real source: https://github.com/sembondg9044/alt-control-plugins/blob/main/first%20person%20on%20alts.lua
+
+
 local ID = game.Players.LocalPlayer.UserId
 
 if getgenv().AltControl == "iku" or getgenv().AltControl == "gs21" or getgenv().AltControl == "spooky" then   --iku, gs21, spooky first person
